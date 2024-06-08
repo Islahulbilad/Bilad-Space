@@ -1,0 +1,21 @@
+##################
+Nama Proyek : Bilad Space
+Pengembang  : Islahul Bilad, S.Pd
+
+
+Adalah simulasi menerbangkan, mendarakat, dan menyatukan roket dengan stasiun luar angkasa (ISS). Dibuat dengan penuh dengan perhitungan fisika, yakni berkaitan dengan gaya resultan, gaya sentrifugal, gravitasi dan gaya dorong mesin roket. Serta ukuran menggunakan skala 1 pixel :1 meter. 
+
+
+Instalasi :
+1.Pastikan sudah install XAMPP 
+2.Ekstrak bilad_space.zip dan pindahkan folder ke C://Program Files/XAMPP/Htdocs (untuk pengguna XAMPP)  
+
+Penggunaan :
+1. Buka browser, ketik localhost/bilad_space/iss_mission.php
+2. simulasi roket bisa digunakan, klik tombol launch untuk menerbangkan roket
+3. Pada ketinggian 100 km klik tombol separate untuk memisahkan stage 1 dan stage 2
+4. Sesuaikan throttle untuk mendapatkan kecepatan horizontal (Hspeed) dan vertical (VSpeed) serta sudut roket untuk mendaratkan stage 1 dengan sempurna
+5. Jika roket stage 1 sudah mendarat, klik Change Camera untuk focus kamera ke stage 1
+6. Sesuaikan throthle stage 2 untuk mendapatkan vertical speed (VSpeed) yang akurat untuk menyatukan dengan ISS. ISS akan terlihat jika altitude sudah mencapai 398.99 Km
+7. Selamat mencoba
+
